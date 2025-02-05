@@ -1,0 +1,17 @@
+blinker==1.8.2
+click==8.1.7
+colorama==0.4.6
+distlib==0.3.7
+filelock==3.12.4
+Flask==3.0.3
+itsdangerous==2.2.0
+Jinja2==3.1.4
+MarkupSafe==3.0.2
+Pillow==9.3.0
+platformdirs==3.10.0
+PyPDF2==3.0.1
+PyQt6==6.4.0
+PyQt6-Qt6==6.4.0
+PyQt6-sip==13.4.0
+virtualenv==20.24.5
+Werkzeug==3.1.1
